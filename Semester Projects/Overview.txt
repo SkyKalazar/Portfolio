@@ -1,0 +1,15 @@
+All three projects were developed in collaboration with three other students (I will not divulge their credentials as the repository is public hence may result in inappropriate use of personal data).
+
+Briefly about each of the projects (starting with most recent):
+
+1. aPHARma (Semester 4, in development) - an IoT system that aims to monitor the microclimate within pharmaceuticals storage to sustain their potency. The project is uniquely developed in a large team - 12 people with. Later on, the team splits into three subdivisions - Embedded programming, Data warehousing and Android development. The workflow and collaboration between divisions is ensured by Scrum. Can't tell a whole lot more at the moment as we are still in the inception phase.
+
+2. Student Incubator (Semester 3) - a heterogeneous distributed system that has to have three tiers (Client, Web API, Persistence). Developed using Blazor framework. Client and API are written in C# and the Data Server - in Java. PostgreSQL as a mean for persistence (alternatively ORM could have been used e.g. Hibernate). REST and RabbitMQ to connect the tiers. For the workflow control combination of Scrum and Kanban is used (with Jira for workflow visualization).
+The project is a game where the user takes up the role of a freshman student. The player has limited resources and has to balance out four aspects of a student life - Academics, Financial, Social and Health. Occasionally random events occur affecting these aspects unpredictably. 
+Additionally, the player can interact with other users of the system. The objective is to finish the semester (time runs out) with all four aspects intact.
+
+3. Noah's Ark (Semester 2) - A Client-Server system. Developed using JavaFX. The tiers are connected using RMI. PostgreSQL for persistence. A full on Scrum approach as it was one of the subjects in second semester (all roles, artifacts and ceremonies had to be upheld and documented). The application is tested with JUnit using ZOMB+E approach.
+The project is a community driven application that provides insight to dog owners and their canine companions. Features FAQ, forums, subscription, service and facility search. Users can interact with each other to help out in the time of need.
+
+4. Project Management System (Semester 1, the topic was chosen by the university/supervisors) - a single user system, developed using Java. The GUI is based on JavaFX. Waterfall development methodology. The application is supplemented by a website for a fictive customer (using HTML, CSS, Bootstrap and JS). Strong focus on documentation, group work and cohesive communication.
+The project aims to aid the user sustain and develop their projects, manage teams and split requirements into tasks.
